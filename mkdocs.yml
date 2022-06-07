@@ -33,6 +33,8 @@ nav:
       - Lustre: storage/parallel/lustre.md
       - Project scratch: storage/parallel/lumip.md
       - Project fast scratch: storage/parallel/lumif.md
+  - Lumi-Q:
+    - Overview: quantum/index.md
   - Developing:
     - Overview: development/index.md
     - Compiling:

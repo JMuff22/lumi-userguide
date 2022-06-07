@@ -9,3 +9,4 @@ template: home.html
 - [LUMI-F : The flash-based storage of LUMI](storage/parallel/lumif.md)
 - [LUMI-P : The parallel filesystem of LUMI](storage/parallel/lumip.md)
 - [LUMI-EAP : The GPU early Access Platform LUMI](eap/index.md)
+- [LUMI-Q : The Quantum Computing Partition](quantum/index.md)
