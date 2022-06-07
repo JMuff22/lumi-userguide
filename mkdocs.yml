@@ -34,7 +34,17 @@ nav:
       - Project scratch: storage/parallel/lumip.md
       - Project fast scratch: storage/parallel/lumif.md
   - Lumi-Q:
-    - Overview: quantum/index.md
+    - Computing:
+      - Overview: quantum/index.md
+      # - Connecting: quantum/connecting.md
+      - Software: quantum/software.md
+    - Quantum Computers:
+        - Helmi: quantum/systems/helmi.md
+        - QAL 9000: quantum/systems/qal_9000.md
+    - Running Jobs:
+      - Examples: quantum/jobs/examples.md
+
+
   - Developing:
     - Overview: development/index.md
     - Compiling:

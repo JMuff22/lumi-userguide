@@ -21,23 +21,24 @@ title: Overview
 [storage]: ../storage/index.md -->
 
 
-## Connecting to Lumi
+## Connecting
 
-Before connecting to LUMI, you need to generate an SSH key pair and upload your
-public key to MyAccessID.
+To access LUMI Please refer to
 
-- [Follow the get started guide][getstarted]
+- [Connecting to LUMI](../computing/connecting.md)
 
-You can do additional setup, like adding your key to an agent or setting
-up a shortcut for LUMI in your SSH configuration.
+For accessing and using Quantum Computers with LUMI please refer to the specific Quantum Computer to wish to use.
 
-- [Setup SSH for LUMI][connecting]
+- [Chalmers QAL 9000](systems/qal_9000.md)
+- [Helmi](systems/helmi.d)
 
 
 ## Quantum Computers connected to LUMI
 
-- [Chalmers QAL 9000][QAL_9000]
-- [Helmi][helmi]
+
+### Chalmers QAL 9000
+
+### Helmi
 
 ## Learn more about the hardware
 
